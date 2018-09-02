@@ -6,6 +6,7 @@ This code is written in Python2.7 and requires Torch 0.3
 
 You need to download pre-trained Resnet152 model from [torchvision](https://github.com/pytorch/vision) for both training and evaluation. 
 
+You can have a look at https://github.com/s-gupta/visual-concepts to get topic words
 ### Training a simNet model
 Now we can train our simNet model with 
 
